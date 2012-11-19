@@ -1,5 +1,4 @@
 require 'spree_core'
-require 'order_export_hooks'
 
 module OrderExport
   class Engine < Rails::Engine
